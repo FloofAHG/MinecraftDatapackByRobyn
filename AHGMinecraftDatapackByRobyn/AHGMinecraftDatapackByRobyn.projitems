@@ -11,21 +11,21 @@
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)Selected Packs.txt" />
     <None Include="$(MSBuildThisFileDirectory)pack.mcmeta" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\bundle_rabbit_hide.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\advancements\recipes\bundle_rabbit_hide.json" />
-    <None Include="$(MSBuildThisFileDirectory).vscode\settings.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\chainmail_helmet.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\chainmail_chestplate.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\bread.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\paper.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\shulker_box.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\advancements\recipes\bread.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\advancements\recipes\paper.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\advancements\recipes\shulker_box.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\chainmail_leggings.json" />
-    <None Include="$(MSBuildThisFileDirectory)data\craftable_bundles_rabbit_hide\recipes\chainmail_boots.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\advancements\recipes\bread.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\advancements\recipes\bundle_rabbit_hide.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\advancements\recipes\paper.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\advancements\recipes\shulker_box.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\bread.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\bundle_rabbit_hide.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\chainmail_boots.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\chainmail_chestplate.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\chainmail_helmet.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\chainmail_leggings.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\paper.json" />
+    <None Include="$(MSBuildThisFileDirectory)data\recipes\shulker_box.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory).vscode\" />
+    <Folder Include="$(MSBuildThisFileDirectory)data\advancements\" />
+    <Folder Include="$(MSBuildThisFileDirectory)data\recipes\" />
   </ItemGroup>
 </Project>
