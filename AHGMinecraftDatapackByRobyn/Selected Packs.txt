@@ -1,0 +1,5 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.17
+Packs:
+	straight to shapeless
+	craftable bundles rabbit hide
