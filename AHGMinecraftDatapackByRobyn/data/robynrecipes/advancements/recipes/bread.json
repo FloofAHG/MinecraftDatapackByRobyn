@@ -16,7 +16,7 @@
       "conditions": {
 
 
-        "recipe": "minecraft:straight_to_shapeless/bread"
+        "recipe": "minecraft:robynrecipes/bread"
       }
     }
   },
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "minecraft:straight_to_shapeless/bread"
+      "minecraft:robynrecipes/bread"
     ]
   }
 }
